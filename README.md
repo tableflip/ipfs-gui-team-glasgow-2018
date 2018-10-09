@@ -1,6 +1,6 @@
-# IPFS GUI Review - 2018 Q2
+# IPFS GUI Review - 2018 Q3
 
-highlights of the IPFS GUI work in Q2 2018.
+highlights of the IPFS GUI work in Q3 2018.
 
 ## Getting started
 
